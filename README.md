@@ -49,7 +49,7 @@ A continuación, se presentan algunos videos que demuestran el funcionamiento de
 *   **Integración CODESYS-Simulink, Sistema de Seguridad (SIL):**
     *   *Descripción:* Demuestra la comunicación en tiempo real entre el PLC virtual de seguridad (CODESYS) y la planta simulada (Simulink) a través de OPC UA.
 
-    [![Video de Simulación SIL con CODESYS, Sistema de Seguridad](img/CODESYS_Seguridad.png)](https://youtu.be/39WLeY4IZes)
+    [![Video de Simulación SIL con CODESYS, Sistema de Seguridad](img/CODESYS_Seguridad.png)](https://youtu.be/Fy-rqe_Hs7k)
 
 ## Documentación
 
