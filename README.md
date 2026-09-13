@@ -34,23 +34,22 @@ A continuación, se presentan algunos videos que demuestran el funcionamiento de
 *   **Simulación Completa (MIL):**
     *   *Descripción:* Muestra la grúa realizando una maniobra completa, incluyendo la generación de trayectorias, el control de balanceo y la lógica de los autómatas.
 
-    [Video de la simulación de ciclo doble](videos/Ciclo_Doble.mp4)
+    [![Video de la simulación de ciclo doble](img/Ciclo_Doble.png)](https://youtu.be/wQnAo902M9k)
 
 *   **Simulación Sistema Seguridad (MIL):**
     *   *Descripción:* Muestra el accionar del sistema de seguridad al detectar una sobrecarga. Posteriormente detecta limites operativos.
 
-    [Video de la simulación de PLC Seguridad](videos/Estimacion_Sobrecarga_Peligro_Limites.mp4)
+    [![Video de la simulación de PLC Seguridad](img/Ciclo_Doble.png)](https://youtu.be/39WLeY4IZes)
 
 *   **Integración CODESYS-Simulink (SIL):**
     *   *Descripción:* Demuestra la comunicación en tiempo real entre el PLC virtual (CODESYS) y la planta simulada (Simulink) a través de OPC UA.
 
-    [Video de Simulación SIL con CODESYS](videos/Movimiento_Simple_CODESYS_SFC.mp4)
+    [![Video de Simulación SIL con CODESYS](img/CODESYS_Simple.png)](https://youtu.be/W7cdJjdC2J8)
 
 *   **Integración CODESYS-Simulink, Sistema de Seguridad (SIL):**
     *   *Descripción:* Demuestra la comunicación en tiempo real entre el PLC virtual de seguridad (CODESYS) y la planta simulada (Simulink) a través de OPC UA.
 
-    [Video de Simulación SIL con CODESYS, Sistema de Seguridad](videos/Sistema_Seguridad_CODESYS_SFC.mp4)
-
+    [![Video de Simulación SIL con CODESYS, Sistema de Seguridad](img/CODESYS_Seguridad.png)](https://youtu.be/39WLeY4IZes)
 
 ## Documentación
 
